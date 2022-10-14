@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+"""Module that factorize as many number#!/usr/bin/python3
 """Module that factorize as many numbers as possible
  into a product of two smaller numbers."""
 from sys import argv
@@ -28,4 +29,4 @@ try:
             line = file.readline()
 
 except:
-    pass
+    passs
